@@ -1,0 +1,7 @@
+{
+  "name": "School Org Manager",
+  "description": "A comprehensive management system for school organizations featuring student profiles, event tracking, attendance, and financial records with receipt generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
